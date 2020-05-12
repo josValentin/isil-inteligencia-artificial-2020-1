@@ -6,3 +6,4 @@
 3. Movimientos basados en físicas
 4. Práctica 1
 5. Repaso post práctica 1
+5. Recuperación de práctica 1
