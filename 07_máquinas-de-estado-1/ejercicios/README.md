@@ -5,7 +5,7 @@
 Programar la siguiente mecánica: 
 
 <p align="center">
-	<img src="https://s6.gifyu.com/images/outdcbf92cd6eb05254.gif" width="600px" />
+	<img src="https://s6.gifyu.com/images/outdcbf92cd6eb05254.gif" width="500px" />
 </p>
 
 Utilizando:
