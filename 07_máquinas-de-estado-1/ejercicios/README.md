@@ -4,7 +4,9 @@
 
 Programar la siguiente mecánica: 
 
-<img src="https://s6.gifyu.com/images/outdcbf92cd6eb05254.gif" style="zoom:80%;" />
+<p align="center">
+	<img src="https://s6.gifyu.com/images/outdcbf92cd6eb05254.gif" width="600px" />
+</p>
 
 Utilizando:
 
