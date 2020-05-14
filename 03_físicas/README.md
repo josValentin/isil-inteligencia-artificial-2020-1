@@ -1,15 +1,13 @@
 # 3. Física
 
-### Intro
+## Intro
 
 - keyPressed
 - mousePressed
 - arrowFunctions
 - forEach
 
-
-
-### Temas
+## Temas
 
 - Posición, Velocidad, Aceleración
 
@@ -32,4 +30,3 @@
 - **Pooling** (array + isDead)
 
 - Ejercicios con vectores
-
