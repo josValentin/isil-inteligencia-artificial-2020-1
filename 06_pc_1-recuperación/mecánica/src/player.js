@@ -1,4 +1,4 @@
-class Npc {
+class Player {
 	constructor() {
 		this.position = new p5.Vector()
 		this.pi = new p5.Vector(300, 300)

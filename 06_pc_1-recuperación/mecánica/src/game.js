@@ -1,16 +1,16 @@
 class Game {
 	constructor() {
 		this.cellSize = 30
-		this.npc = new Npc()
+		this.player = new Player()
 		this.goalPosition = new p5.Vector(this.cellSize * parseInt(random(1, 19)), this.cellSize * parseInt(random(1, 19)))
 	}
 
 	draw() {
 		this.drawGoal()
 		this.drawGrid()
-		this.npc.draw()
+		this.player.draw()
 
-		if (dist(this.goalPosition.x, this.goalPosition.y, this.npc.position.x, this.npc.position.y) < 10) {
+		if (dist(this.goalPosition.x, this.goalPosition.y, this.player.position.x, this.player.position.y) < 10) {
 			console.log('colisión')
 			this.goalPosition = new p5.Vector(
 				this.cellSize * parseInt(random(1, 19)),
@@ -37,6 +37,6 @@ class Game {
 	}
 
 	onKeyPressed() {
-		this.npc.onKeyPressed()
+		this.player.onKeyPressed()
 	}
 }
