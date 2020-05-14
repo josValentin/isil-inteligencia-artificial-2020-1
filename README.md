@@ -9,5 +9,5 @@
 - [Práctica 1](https://github.com/jersonlatorre/isil-inteligencia-artificial-2020-1/tree/master/04_pc_1)
 - [Repaso post práctica 1](https://github.com/jersonlatorre/isil-inteligencia-artificial-2020-1/tree/master/05_repaso_post_pc1)
 - [Recuperación de práctica 1](https://github.com/jersonlatorre/isil-inteligencia-artificial-2020-1/tree/master/06_pc_1-recuperaci%C3%B3n)
-- [Máquinas de estado 1](https://github.com/jersonlatorre/isil-inteligencia-artificial-2020-1/tree/master/07_m%C3%A1quinas-de-estado)
+- [Máquinas de estado 1](https://github.com/jersonlatorre/isil-inteligencia-artificial-2020-1/tree/master/07_m%C3%A1quinas-de-estado-1)
 
