@@ -12,7 +12,10 @@ class Game {
 
 		if (dist(this.goalPosition.x, this.goalPosition.y, this.npc.position.x, this.npc.position.y) < 10) {
 			console.log('colisión')
-			this.goalPosition = new p5.Vector(this.cellSize * parseInt(random(1, 19)), this.cellSize * parseInt(random(1, 19)))
+			this.goalPosition = new p5.Vector(
+				this.cellSize * parseInt(random(1, 19)),
+				this.cellSize * parseInt(random(1, 19))
+			)
 		}
 	}
 
