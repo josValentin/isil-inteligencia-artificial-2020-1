@@ -31,13 +31,22 @@ Teniendo en cuenta que:
 
 - El desplazamiento de los NPC’s consiste en desplazarse una distancia determinada en una dirección aleatoria distinta en cada cambio de posición.
 
+- Utilizar correctamente las técnicas de: **pooling**, **timing**, **lerping** y **máquinas de estados**.
+
 - Los gráficos son en realidad texto plano. Si gustan, pueden solamente copiar y pegar: 💀, 💔, 🙁, 🙂, 🤩.
 
-- En p5, el texto se muestra utilizando la función `text()` de la siguiente manera:
+- Funciones útiles en p5:
 
   ```javascript
-  text('texto a escribir', posiciónX, posiciónY)
-  ```
+  // dibujar texto
+  text('texto a escribir', x, y)
 
+  // centrar texto
+  textAlign(CENTER, CENTER)
+  
+  // tamaño del texto en píxeles
+  textSize(tamaño)
+  ```
+  
   
 
