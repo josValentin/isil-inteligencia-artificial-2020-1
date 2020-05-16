@@ -27,8 +27,8 @@ Programar la siguiente mecánica:
 
 Teniendo en cuenta que:
 
-- Los NPC's nacen al hacer click con el mouse..
-- Los gráficos son en realidad texto, si gustan puedeo solamente copiar y pegar: 💀, 💔, 🙁, 🙂, 🤩
+- Los NPC's nacen al hacer click con el mouse.
+- Los gráficos son en realidad texto, si gustan puedeo solamente copiar y pegar: 💀, 💔, 🙁, 🙂, 🤩.
 - En p5, el texto se muestra utilizando la función `text()` de la siguiente manera:
 
   ```javascript
