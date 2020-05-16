@@ -11,11 +11,8 @@ Programar la siguiente mecánica:
 Teniendo en cuenta que:
 
 - El follow al mouse es con suavizado.
-
 - Las animaciones del escudo están usando easings.
-
 - Se utilizan máquinas de estado para controlar los estados del escudo (sugerencias: NONE, APPEARING, DISAPPEARING, COMPLETED).
-
 - (Ignorar la animación inferior que detecta la tecla "spacebar")
 
   
@@ -31,9 +28,7 @@ Programar la siguiente mecánica:
 Teniendo en cuenta que:
 
 - Los NPC's nacen al hacer click con el mouse..
-
-- Los gráficos son en realidad texto, si gustan puedeo solamente copiar y pegar: 💀, 💔, 🙁, 🙂, 🤩.
-
+- Los gráficos son en realidad texto, si gustan puedeo solamente copiar y pegar: 💀, 💔, 🙁, 🙂, 🤩
 - En p5, el texto se muestra utilizando la función `text()` de la siguiente manera:
 
   ```javascript
