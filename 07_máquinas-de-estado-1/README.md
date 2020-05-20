@@ -1,3 +1,3 @@
-# 7. Máquinas de estados
+# 7. Máquinas de Estados 1
 
-Ejemplo básico de como resolver una máquina de estados utilizando la estructura switch.
+Sobre cómo resolver una **máquina de estados** utilizando la estructura **switch**.
