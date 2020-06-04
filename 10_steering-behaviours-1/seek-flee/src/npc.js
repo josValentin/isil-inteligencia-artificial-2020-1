@@ -24,7 +24,7 @@ class Npc {
 		translate(this.position.x, this.position.y)
 		rotate(this.velocity.heading())
 		noStroke()
-		fill('red')
+		fill('#666')
 		rectMode(CENTER, CENTER)
 		rect(0, 0, 35, 20)
 	}

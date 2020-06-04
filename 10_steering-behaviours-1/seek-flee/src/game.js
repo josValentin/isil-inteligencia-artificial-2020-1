@@ -5,8 +5,8 @@ class Game {
 
 	draw() {
 		noStroke()
-		fill('black')
-		circle(mouseX, mouseY, 20)
+		fill('green')
+		circle(mouseX, mouseY, 15)
 		this.npc.draw()
 	}
 }
