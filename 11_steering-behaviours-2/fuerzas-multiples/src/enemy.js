@@ -1,7 +1,7 @@
 class Enemy {
-	constructor() {
+	constructor(x, y) {
 		this.EVADE_RADIUS = 100
-		this.position = createVector(300, 300)
+		this.position = createVector(x, y)
 	}
 
 	draw() {

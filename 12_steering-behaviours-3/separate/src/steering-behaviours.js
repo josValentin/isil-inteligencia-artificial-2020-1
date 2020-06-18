@@ -34,3 +34,18 @@ SteeringBehaviours.arrive = function(agent, target, radiusArrive, radius) {
 	}
 	return desired
 }
+
+SteeringBehaviours.separate = function(agent, others, separateRadius) {
+	let desired = createVector(0, 0)
+	others.forEach((npc) => {
+		let distance = agent.position.copy().sub(npc.position).mag()
+
+		// verificar si estoy dentro del entorno
+		if (distance < separateRadius) {
+			// sumar todos los deseados de los flees
+			let desiredAux = SteeringBehaviours.flee(agent, npc.position, 9999999)
+			desired.add(desiredAux)
+		}
+	})
+	return desired
+}
