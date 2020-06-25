@@ -1,4 +1,3 @@
-# 11. Steering Behaviours 1
+# 11. Steering Behaviours 2
 
-- Arrive
-- Fuerzas múltiples
+- Separate
