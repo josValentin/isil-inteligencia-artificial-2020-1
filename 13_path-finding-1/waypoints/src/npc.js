@@ -25,8 +25,9 @@ class Npc {
 
 		let neighbors = Global.map[this.indexI]
 
+		// probar hasta encontrar un vecino
 		let r = parseInt(Math.random() * 5)
-		while (neighbors[r] == 0) {
+		while (!neighbors[r] == 1) {
 			r = parseInt(Math.random() * 5)
 		}
 
